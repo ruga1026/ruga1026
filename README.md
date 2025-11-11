@@ -45,7 +45,7 @@ IEEE 14th International Conference on Control, Automation and Information Scienc
 
 ## 💻 Technical Skills
 **Programming:** Python, MATLAB  
-**Tools:** ROS2, Gazebo, Linux (Ubuntu), Jetson Orin NX/Nano  
+**Tools:** ROS2, Gazebo, Linux (Ubuntu) 
 **Languages:** Korean (Native), English (TOEFL 103, TOEIC 910)
 
 ---
