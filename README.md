@@ -1,4 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Seunggyu Lee
+
+I'm an undergraduate researcher at **Korea Aerospace University (KAU)** majoring in **Aerospace Engineering**.  
+My work lies at the intersection of **robotics, autonomy, and language-based reasoning**, where I explore how **large language models (LLMs)** can enhance the **planning and adaptability of autonomous robotic systems**.
+
+---
+
+## 🔬 Research Interests
+- Leveraging **LLMs/VLMs** for reasoning and decision-making in autonomous systems  
+- **Mission allocation** and cooperative control for multi-UGV teams  
+- On-device **vision-language-model-based robot behavior planning**  
+- **Simulation and optimization** for aerial/ground robotics platforms  
+
+---
+
+## 🧩 Projects & Research
+
+### 🦾 On-Device Vision-Language-Model based Robot Behavior Planning Framework
+- Led a team of six to design a **VLM-based autonomous robot architecture** deployable on Jetson Orin NX/Nano.  
+- Mitigated hallucination via an **LLM-based actor–critic validation loop** and rule-based pre-filter.  
+- Implemented **SLAM**, **object detection**, and **ROS 2 Nav2** navigation stack.  
+- 🏆 *Encouragement Award*, 7th National Undergraduate Capstone Design Competition (SASE, 2025).  
+- 🎥 [Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
+
+---
+
+### 🚜 Multi-UGV Mission Allocation & Simulation Environment
+- Built a **ROS2–Gazebo simulation** environment to evaluate mission allocation algorithms for multiple UGVs.  
+- Implemented data-driven testing in Python for scalability and robustness.
+
+---
+
+### ✈️ Ducted-Fan VTOL Platform
+- Designed and validated a **custom ducted-fan VTOL rig** instrumented with high-precision sensors.  
+- Developed a **MATLAB + DAQ** pipeline for thrust/torque data acquisition and analysis, achieving 10 cm position accuracy.
+
+---
+
+## 🧠 Publication
+**Lee, S.**, Oh, S., Jeon, S., Park, Y., Lee, S., Choi, G., & Jang, D.-S. (2024).  
+*On-Device Vision Language Model Based Natural Language Mission Execution Framework.*  
+IEEE 14th International Conference on Control, Automation and Information Sciences (ICCAIS 2025).
+
+---
+
+## 💻 Technical Skills
+**Programming:** Python, MATLAB  
+**Tools:** ROS2, Gazebo, Linux (Ubuntu), Jetson Orin NX/Nano  
+**Languages:** Korean (Native), English (TOEFL 103, TOEIC 910)
+
+---
+
+## 📫 Contact
+📧 ruga1026@gmail.com  
+🌐 [GitHub](https://github.com/ruga1026)
+
+---
+
+> *"Integrating reasoning into autonomy — towards robots that understand, plan, and adapt."*
+
 
 <!--
 **ruga1026/ruga1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
