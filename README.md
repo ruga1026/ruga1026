@@ -56,10 +56,11 @@ IEEE 14th International Conference on Control, Automation and Information Scienc
 
 ---
 
+<!--
 > *"Integrating reasoning into autonomy — towards robots that understand, plan, and adapt."*
 
 
-<!--
+
 **ruga1026/ruga1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
