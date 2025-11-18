@@ -8,7 +8,6 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 ## 🔬 Research Interests
 - Leveraging **LLMs/VLMs** for reasoning and decision-making in autonomous systems  
 - **Mission allocation** and cooperative control for multi-UGV teams  
-- On-device **vision-language-model-based robot behavior planning**  
 - **Simulation and optimization** for aerial/ground robotics platforms  
 
 ---
@@ -20,7 +19,9 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 - Mitigated hallucination via an **LLM-based actor–critic validation loop** and rule-based pre-filter.  
 - Implemented **SLAM**, **object detection**, and **ROS 2 Nav2** navigation stack.  
 - 🏆 *Encouragement Award*, 7th National Undergraduate Capstone Design Competition (SASE, 2025).  
-<object data="poster.pdf" width="1000" height="1000" type='application/pdf'/>
+- Presentation Poster(Korean):
+<img width="442" height="640" alt="Image" src="https://github.com/user-attachments/assets/b4bd2c04-dde0-47bf-b3df-6dd5c73bcf0b" />
+
 ---
 
 ### 🚜 Multi-UGV Simulation Environment
@@ -39,12 +40,15 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 **Lee, S.**, Oh, S., Jeon, S., Park, Y., Lee, S., Choi, G., & Jang, D.-S. (2024).  
 *On-Device Vision Language Model Based Natural Language Mission Execution Framework.*  
 IEEE 14th International Conference on Control, Automation and Information Sciences (ICCAIS 2025).
+
 🎥 [Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
 ---
 
 ## 💻 Technical Skills
 **Programming:** Python, MATLAB  
+
 **Tools:** ROS2, Gazebo, Linux (Ubuntu), CATIA (3D Modeling)
+
 **Languages:** Korean (Native), English (TOEFL 103)
 
 ---
