@@ -15,18 +15,17 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 
 ## 🧩 Projects & Research
 
-### 🦾 On-Device Vision-Language-Model based Robot Behavior Planning Framework
+### 🤖 On-Device Vision-Language-Model based Robot Behavior Planning Framework
 - Led a team of six to design a **VLM-based autonomous robot architecture** deployable on Jetson Orin NX/Nano.  
 - Mitigated hallucination via an **LLM-based actor–critic validation loop** and rule-based pre-filter.  
 - Implemented **SLAM**, **object detection**, and **ROS 2 Nav2** navigation stack.  
 - 🏆 *Encouragement Award*, 7th National Undergraduate Capstone Design Competition (SASE, 2025).  
-- 🎥 [Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
-
+<object data="poster.pdf" width="1000" height="1000" type='application/pdf'/>
 ---
 
-### 🚜 Multi-UGV Mission Allocation & Simulation Environment
-- Built a **ROS2–Gazebo simulation** environment to evaluate mission allocation algorithms for multiple UGVs.  
-- Implemented data-driven testing in Python for scalability and robustness.
+### 🚜 Multi-UGV Simulation Environment
+- Built a simulation environment to evaluate mission allocation algorithms for multiple UGVs.  
+- Using ROS2 and Gazebo for simulation, with Python for testing and implementation. 
 
 ---
 
@@ -40,13 +39,13 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 **Lee, S.**, Oh, S., Jeon, S., Park, Y., Lee, S., Choi, G., & Jang, D.-S. (2024).  
 *On-Device Vision Language Model Based Natural Language Mission Execution Framework.*  
 IEEE 14th International Conference on Control, Automation and Information Sciences (ICCAIS 2025).
-
+🎥 [Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
 ---
 
 ## 💻 Technical Skills
 **Programming:** Python, MATLAB  
-**Tools:** ROS2, Gazebo, Linux (Ubuntu) 
-**Languages:** Korean (Native), English (TOEFL 103, TOEIC 910)
+**Tools:** ROS2, Gazebo, Linux (Ubuntu), CATIA (3D Modeling)
+**Languages:** Korean (Native), English (TOEFL 103)
 
 ---
 
