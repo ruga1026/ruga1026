@@ -43,7 +43,10 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 *On-Device Vision Language Model Based Natural Language Mission Execution Framework.*  
 IEEE 14th International Conference on Control, Automation and Information Sciences (ICCAIS 2025).
 
-🎥 [Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
+📄[Presentation Slides (PDF)](https://github.com/ruga1026/ruga1026/blob/main/SeunggyuLee_ICCAIS2025.pdf)
+
+🎥[Oral presentation at ICCAIS 2025 (YouTube)](https://youtu.be/kwwkg-lqsvA)
+
 ---
 
 ## 💻 Technical Skills
