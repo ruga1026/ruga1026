@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Seunggyu Lee
 
-I'm an undergraduate researcher at **Korea Aerospace University (KAU)** majoring in **Aerospace Engineering**.  
+I'm an undergraduate student and researcher at **Korea Aerospace University (KAU)**, majoring in **Aerospace Engineering**.
+I currently work as an undergraduate research member in the **Autonomous Systems and Optimization Laboratory (ASOL)**.
 My work lies at the intersection of **robotics, autonomy, and language-based reasoning**, where I explore how **large language models (LLMs)** can enhance the **planning and adaptability of autonomous robotic systems**.
 
 ---
