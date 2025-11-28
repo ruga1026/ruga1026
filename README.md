@@ -7,7 +7,7 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 
 ## 🔬 Research Interests
 - Leveraging **LLMs/VLMs** for reasoning and decision-making in autonomous systems  
-- **Mission allocation** and cooperative control for multi-UGV teams  
+- Developing cooperative control strategies for multi-robot systems and human-robot interaction
 - **Simulation and optimization** for aerial/ground robotics platforms  
 
 ---
