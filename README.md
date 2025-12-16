@@ -32,7 +32,7 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 <img width="1226" height="392" alt="Image" src="https://github.com/user-attachments/assets/5afbca0b-f971-44a1-bfa8-d44c552157da" />
 -->
 
-![Image](https://github.com/user-attachments/assets/d9d97801-7566-440b-933a-3df9e1273abe)
+![Image](https://github.com/user-attachments/assets/41d0d8c3-7a8e-472f-8826-d67756b64bab)
 <img width="531" height="690" alt="Image" src="https://github.com/user-attachments/assets/b27ee485-f346-4f81-8b09-970dd692e38e" />
 
 
