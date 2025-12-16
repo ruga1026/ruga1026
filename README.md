@@ -28,8 +28,13 @@ My work lies at the intersection of **robotics, autonomy, and language-based rea
 ---
 
 ### 🚜 Multi-UGV Simulation Environment
+<!--
+<img width="1226" height="392" alt="Image" src="https://github.com/user-attachments/assets/5afbca0b-f971-44a1-bfa8-d44c552157da" />
+-->
+
+![Image](https://github.com/user-attachments/assets/d9d97801-7566-440b-933a-3df9e1273abe)
 <img width="531" height="690" alt="Image" src="https://github.com/user-attachments/assets/b27ee485-f346-4f81-8b09-970dd692e38e" />
-<img  width="1226" height="392" alt="Image" src="https://github.com/user-attachments/assets/5afbca0b-f971-44a1-bfa8-d44c552157da" />
+
 
 - Built a simulation environment to evaluate mission allocation algorithms for multiple UGVs.
 - Using ROS2 and Gazebo for simulation, with Python for testing and implementation.
